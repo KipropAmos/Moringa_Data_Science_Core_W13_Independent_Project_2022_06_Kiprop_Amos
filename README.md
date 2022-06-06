@@ -16,7 +16,7 @@ R base
 
 The r markdown notebooks are rendered in html format.
 
-  Supervised learning model html link [Supervised learnimg model](https://rpubs.com/KipropSang/911086)
+  Supervised learning model html link [Supervised learning model](https://rpubs.com/KipropSang/911086)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
