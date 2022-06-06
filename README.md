@@ -17,6 +17,8 @@ R base
 The r markdown notebooks are rendered in html format.
 
   Supervised learning model html link [Supervised learning model](https://rpubs.com/KipropSang/911086)
+  
+  Unsupervised learning model for customer segmentation [Unsupervised machine learning model](https://rpubs.com/KipropSang/911312)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
