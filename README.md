@@ -1,4 +1,4 @@
-# Moringa_Data_Science_Core_W13_Independent_Project_2022_06_Kiprop_Amos
+# Targetted advertising machine learning project
 
 
 
